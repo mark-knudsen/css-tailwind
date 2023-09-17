@@ -1,7 +1,5 @@
 # Atom Template
 
-Got from this link: https://www.tailwindawesome.com/resources/atom
-
 Thank you for using this template! We hope you can use it to make your next web project a success!
 
 Atom is a free portfolio template styled with TailwindCSS. Other open source libraries were also used to provide the functionality required to make your customization quicker and faster.
